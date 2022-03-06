@@ -1,6 +1,6 @@
-CREATE DATABASE BD_Transaccional2
+CREATE DATABASE BD_Transaccional_Building_Permits
 
-USE BD_Transaccional2
+USE BD_Transaccional_Building_Permits
 
 CREATE TABLE Building(
 	id_Building int IDENTITY(1,1) NOT NULL,
