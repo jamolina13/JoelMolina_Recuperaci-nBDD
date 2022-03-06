@@ -1,5 +1,5 @@
-CREATE DATABASE estre2
-use estre2
+CREATE DATABASE DWH_EsquemaEstrella_BuildingPermits
+use DWH_EsquemaEstrella_BuildingPermits
 CREATE TABLE Dim_Building(
 	id_Building int IDENTITY(1,1) NOT NULL,
 	Description varchar(max) NULL,
